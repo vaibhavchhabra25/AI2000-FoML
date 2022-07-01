@@ -3,4 +3,5 @@
 * The hackathon was conducted on Kaggle and the topic was "Is the driver at fault?".
 * The dataset has 42 features and almost all of them are categorical.
 * Our aim was to train an ML algorithm that optimizes the evaluation metric i.e Accuracy.
+* I used various classifiers like logistic regression, random forest classifier, gradient boosting classifier and compared the accuracies on the test data.
 * Gradient Boosting Classifier performed best on the data and gave training acccuracy of 87% and validation accuracy of 84.2%, after a suitable tuning of parameters.
